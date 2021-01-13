@@ -14,8 +14,6 @@ EXAFarm will automatically injects itself into the Growtopia process. You can do
 
 When Growtopia is open, menu is openable under `INSERT` key.
 
-EXAFarm uses `kernel32.dll` and `ntdll.dll`.
-
 ## Features
 
 EXAFarm can open multiple instances of Growtopia at the same time and farm with them. 
