@@ -1,13 +1,21 @@
 # EXAFarm
+[![Windows](https://github.com/danielkrupinski/GOESP/workflows/Windows/badge.svg)](https://github.com/NotAma666/EXAFarm)
+
 Growtopia autofarming bot specialized in BFG farming that can also multibox (open multiple instances of the game at the same time). 
+
+Currently supports Windows.
 
 ## How to use
 
-EXAFarm only works on Windows.
-EXAFarm automatically injects itself into the Growtopia process.
-EXAFarm can open multiple instances of Growtopia at the same time and farm with them.
+EXAFarm will automatically injects itself into the Growtopia process.
+
 You can download an .exe file and launch it to start using it right away.
+
 EXAFarm uses `kernel32.dll` and `ntdll.dll`.
+
+## Features
+
+EXAFarm can open multiple instances of Growtopia at the same time and farm with them. 
 
 ## Common problems
 
