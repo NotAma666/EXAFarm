@@ -7,9 +7,7 @@ Currently supports Windows.
 
 ## How to use
 
-EXAFarm will automatically injects itself into the Growtopia process.
-
-You can download an .exe file and launch it to start using it right away.
+EXAFarm will automatically injects itself into the Growtopia process. You can download the executable (.exe) file and launch it to start using it right away. The executable will launch Growtopia and inject itself.
 
 EXAFarm uses `kernel32.dll` and `ntdll.dll`.
 
