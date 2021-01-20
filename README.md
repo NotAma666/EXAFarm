@@ -5,9 +5,6 @@ Growtopia autofarming bot specialized in BFG farming that can also multibox (ope
 
 Currently supports Windows.
 
-*** Auto Collect is currently broken, don't enable it, Growtopia implemented new system to detect invalid pickups ***
-*** Collecting items while Auto Collect is on will result in an autoban ***
-
 ## Download
 [Release](https://github.com/NotAma666/EXAFarm/releases/tag/2.0.7) 
 
